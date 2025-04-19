@@ -79,7 +79,7 @@ Esta aula é parte da iniciativa **GitHub4Women**, com apoio das organizações:
 - [WoMakersCode](https://www.maismulheres.tech/users/sign_in)
 - [Mais Mulheres em Tech](https://www.maismulheres.tech/)
 -
-## Contato
+## Criado pela Alessandra Cruz
 
 e-mail: alessandraccruz@pm.me
 Linkedin: https://www.linkedin.com/in/alessandraccruz/
